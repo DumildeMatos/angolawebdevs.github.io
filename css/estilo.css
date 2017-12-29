@@ -10,7 +10,6 @@ body{
 	background-image: url('../img/wait.png');
 	background-size: cover;
 	font-family: "Aloha";
-	background-repeat: no-repeat;
 }
 .pageLink{
 	margin-top: 8%;
